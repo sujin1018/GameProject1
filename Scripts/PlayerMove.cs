@@ -156,11 +156,23 @@ public class PlayerMove : MonoBehaviour
             PlaySound("ITEM");
             audioSource.Play();
         }
+
         else if (collision.gameObject.tag == "Finish") 
         {   //Next Stage
             gameManager.NextStage();
             //Sound
             PlaySound("FINISH");
+            audioSource.Play();
+        }
+
+        else if (collision.gameObject.tag == "Heart")
+        {
+            gameManager.HealthUp();
+            // Deactive Heart
+            collision.gameObject.SetActive(false);
+
+            //Sound
+            PlaySound("ITEM");
             audioSource.Play();
         }
     }
@@ -184,8 +196,7 @@ public class PlayerMove : MonoBehaviour
     //무적효과 함수
     void OnDamaged(Vector2 targetPos)
     {
-        //Health Down
-        gameManager.HealthDown();
+        
 
         //Change Layer(Immortal Active)
         gameObject.layer = 11;
@@ -203,6 +214,9 @@ public class PlayerMove : MonoBehaviour
 
         //Animation
         anim.SetTrigger("doDamaged");
+
+        //Health Down
+        gameManager.HealthDown();
 
         //무적시간 해제
         Invoke("OffDamaged", 2);   
@@ -231,6 +245,8 @@ public class PlayerMove : MonoBehaviour
         capsulecollider.enabled = false;
         //Die Effect Jump 죽는모션
         rigid.AddForce(Vector2.up * 5, ForceMode2D.Impulse);
+        //플레이어 멈춤
+        Time.timeScale = 0;
 
     }
 

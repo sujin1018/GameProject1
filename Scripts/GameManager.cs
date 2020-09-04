@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+//using UnityEditorInternal;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
@@ -50,6 +51,16 @@ public class GameManager : MonoBehaviour
         stagePoint = 0;
     }
 
+    public void HealthUp()
+    {
+        if(health < 3)
+        {
+            health++;
+            UIhealth[health-1].color = new Color(1, 1, 1, 1);
+        }
+    }
+
+    
     public void HealthDown()
     {
         if (health > 1)
@@ -64,12 +75,14 @@ public class GameManager : MonoBehaviour
             UIhealth[0].color = new Color(1, 0, 0, 0.3f);
             //Player Die Effect
             player.OnDie();
-
+            
             //Result UI
+            PlayerReposition();
             Debug.Log("죽었습니다!");
 
             //Retry Button UI
             UIRestartBtn.SetActive(true);
+            
         }
     }
     private void OnTriggerEnter2D(Collider2D collision)
