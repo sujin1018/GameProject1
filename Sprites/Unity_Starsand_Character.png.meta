@@ -1,0 +1,452 @@
+fileFormatVersion: 2
+guid: 78731972d6c5c9c4da652addff688100
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6268350007697176819
+    second: Unity_Starsand_Character_0
+  - first:
+      213: -7973340468811077862
+    second: Unity_Starsand_Character_1
+  - first:
+      213: -6556504577682308327
+    second: Unity_Starsand_Character_2
+  - first:
+      213: -8918619825506616133
+    second: Unity_Starsand_Character_3
+  - first:
+      213: 6249740065084838688
+    second: Unity_Starsand_Character_4
+  - first:
+      213: 3422448272515040955
+    second: Unity_Starsand_Character_5
+  - first:
+      213: -4988284993826938155
+    second: Unity_Starsand_Character_6
+  - first:
+      213: -7822366041427968843
+    second: Unity_Starsand_Character_7
+  - first:
+      213: 5548316273161072940
+    second: Unity_Starsand_Character_8
+  - first:
+      213: -4257063236975141927
+    second: Unity_Starsand_Character_9
+  - first:
+      213: -5651656205202031000
+    second: Unity_Starsand_Character_10
+  - first:
+      213: 5899357739193829464
+    second: Unity_Starsand_Character_11
+  - first:
+      213: 3925602465159568793
+    second: Unity_Starsand_Character_12
+  - first:
+      213: 7582578627846828784
+    second: Unity_Starsand_Character_13
+  - first:
+      213: 1802454259888395222
+    second: Unity_Starsand_Character_14
+  - first:
+      213: 3966915160975712255
+    second: Unity_Starsand_Character_15
+  - first:
+      213: 7249437273237518185
+    second: Unity_Starsand_Character_16
+  - first:
+      213: -2081108270109839455
+    second: Unity_Starsand_Character_17
+  - first:
+      213: 5851612109513261333
+    second: Unity_Starsand_Character_18
+  - first:
+      213: 8916491949499564186
+    second: Unity_Starsand_Character_19
+  - first:
+      213: -4936793002954610882
+    second: Unity_Starsand_Character_20
+  - first:
+      213: -8282851987770444914
+    second: Unity_Starsand_Character_21
+  - first:
+      213: 8046346850029458772
+    second: Unity_Starsand_Character_22
+  - first:
+      213: -8054251792768068890
+    second: Unity_Starsand_Character_23
+  - first:
+      213: 7787683354852643977
+    second: Unity_Starsand_Character_24
+  - first:
+      213: -8927884025071836932
+    second: Unity_Starsand_Character_25
+  - first:
+      213: -2344796582972045063
+    second: Unity_Starsand_Character_26
+  - first:
+      213: -2696644348750576437
+    second: Unity_Starsand_Character_27
+  - first:
+      213: 4914017179012549840
+    second: Unity_Starsand_Character_28
+  - first:
+      213: 8924445199010167678
+    second: Unity_Starsand_Character_29
+  - first:
+      213: -4716903730490168739
+    second: Unity_Starsand_Character_30
+  - first:
+      213: 2502470195940459882
+    second: Unity_Starsand_Character_31
+  - first:
+      213: -4383051390767139523
+    second: Unity_Starsand_Character_32
+  - first:
+      213: -7286982650194362332
+    second: Unity_Starsand_Character_33
+  - first:
+      213: -4425423831972097590
+    second: Unity_Starsand_Character_34
+  - first:
+      213: 6420684687701791019
+    second: Unity_Starsand_Character_35
+  - first:
+      213: -20292604926828579
+    second: Unity_Starsand_Character_0
+  - first:
+      213: 6532142117904003496
+    second: Unity_Starsand_Character_1
+  - first:
+      213: 385035825174577865
+    second: Unity_Starsand_Character_2
+  - first:
+      213: -4114992778267285518
+    second: Unity_Starsand_Character_3
+  - first:
+      213: -1447941663388121693
+    second: Unity_Starsand_Character_4
+  - first:
+      213: 8478409271358055600
+    second: Unity_Starsand_Character_5
+  - first:
+      213: 3705962214203108769
+    second: Unity_Starsand_Character_6
+  - first:
+      213: -4585072792622511979
+    second: Unity_Starsand_Character_7
+  - first:
+      213: 7250841283450628663
+    second: Unity_Starsand_Character_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 64
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 64
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 64
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 64
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Unity_Starsand_Character_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfd4cbbbf7e7bff0800000000000000
+      internalID: -20292604926828579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Starsand_Character_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a13900c5a4d6aa50800000000000000
+      internalID: 6532142117904003496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Starsand_Character_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c284510b0ce75500800000000000000
+      internalID: 385035825174577865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Starsand_Character_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7a41ecedb94e6c0800000000000000
+      internalID: -4114992778267285518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Starsand_Character_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5434a8ab0e7ebe0800000000000000
+      internalID: -1447941663388121693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Starsand_Character_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4ecafcf4c59a570800000000000000
+      internalID: 8478409271358055600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Starsand_Character_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ada890bff83e6330800000000000000
+      internalID: 3705962214203108769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Starsand_Character_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5984d6e769c8e50c0800000000000000
+      internalID: -4585072792622511979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Starsand_Character_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73aefce0bb920a460800000000000000
+      internalID: 7250841283450628663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
